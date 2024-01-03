@@ -1,0 +1,11 @@
+ame,Address,City,State,Country,Postal Code,Doctor Consultation AND ADMIT,Vaccine Available,Masks,testing,home testing,Opens_at,Closes_at,Days_open,latitudes,longitudes
+Health Hub Pharmacy,123 Elm St,Austin,Texas,USA,73301,N,Y,Y,N,Y,0800,2000,M-S,30.2672,-97.7431
+Wellness Clinic,456 Maple Ave,Dallas,Texas,USA,75201,Y,Y,N,Y,N,0700,1800,M-F,32.7767,-96.7970
+City Medical Center,789 Oak St,Houston,Texas,USA,77002,Y,Y,N,Y,N,0800,1900,M-F,29.7604,-95.3698
+Green Cross Health Store,321 Pine St,San Antonio,Texas,USA,78205,N,Y,Y,N,Y,0900,2100,M-S,29.4241,-98.4936
+CareFirst Clinic,654 Cedar Rd,Fort Worth,Texas,USA,76104,N,Y,N,Y,N,0800,1800,M-F,32.7555,-97.3308
+River City Pharmacy,987 Spruce St,El Paso,Texas,USA,79901,N,Y,Y,N,Y,0830,1700,M-S,31.7619,-106.4850
+Sunrise Health Center,234 Birch Ln,Corpus Christi,Texas,USA,78401,Y,Y,N,Y,N,0900,1800,M-F,27.8006,-97.3964
+Lone Star Drugstore,567 Walnut St,Plano,Texas,USA,75074,N,Y,Y,N,Y,0700,2300,M-S,33.0198,-96.6989
+PrimeCare Clinic,890 Chestnut St,Laredo,Texas,USA,78040,N,Y,N,Y,N,0800,1700,M-F,27.5036,-99.5075
+Vitality Pharmacy,432 Alder St,Amarillo,Texas,USA,79106,N,Y,Y,N,Y,0800,2200,M-S,35.221997,-101.831297
